@@ -1,5 +1,5 @@
 ## FTP ###
-FTP stands for File Transfer Protocol which is used for transferring files over network to upload and download files. There is a authenication process to sucessfully connect to FTP server. To do that usernames and passwords
+FTP stands for File Transfer Protocol which is used for transferring files over network to upload and download files. There is a authentication process to sucessfully connect to FTP server. To do that usernames and passwords
 are required. In this tutorial we will guess valid username and password by using brute force technique. Lets Start!.
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/4b6ed6c9-cc6a-4147-acfa-c8e8cf66c919 width=450 height=300/><br>Figure (1)</p>
 
@@ -35,8 +35,9 @@ In Advanced Port Scanner, type our network range to deep scan in this scenario `
 After Scanning is completed, There is more details scanning results for our target ip address and there is port 21 FTP service is open. Our target is confirmed. 
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/f9eae029-cd23-4f8d-8cba-e076c63272b3 width=450 height=300/><br>Figure (7): Advanced Port Scanner Results </p>
 
-To confirm whether FTP service is active or inactive, click ftp hyperlink in Advance port scanner. There is a authenication process to connect with FTP server.
+To confirm whether FTP service is active or inactive, click ftp hyperlink in Advance port scanner. There is a authentication process to connect with FTP server.
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/57a39a1e-07c8-4989-9fb1-df50c78639ee width=450 height=300/><br>Figure (8): FTP service is active </p>
+We don't know username and password for authentication.
 
 ## Step Four ##
 **Wordlists** <br>
@@ -47,3 +48,9 @@ Wordlists are collection of wellknown usernames and passwords to predict valid c
 After wordlist creation process is done, we will start brute-force attack. There are genreally two types of brute-frocing is available, online and offline brute forcing attack. Tools and techniques may differ dependings on types of attack. In this scenario, online brute-forcing technique will perform. To do that there's a tool called thc-hydra.
 
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/d113e00c-edf8-44a0-a377-0c737002a47b width=450 height=300/><br>Figure (10): THC-Hydra Online Brute Force Tool </p>
+
+<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/b97c32cf-faaf-4e4b-8963-6db0a4b30c2d width=450 height=300/><br>Figure (11): THC-Hydra Online Brute Force Tool </p>
+
+<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/c876ca81-a174-44e2-b42a-0973ac6b8df8 width=450 height=300/><br>Figure (12): THC-Hydra Online Brute Force Tool </p>
+
+
