@@ -5,10 +5,10 @@ are required. In this tutorial we will guess valid username and password by usin
 
 ## Prerequstite for this Lab ##
 - Server with FTP service
-- Windows 7
-- Angry IP Scanner
-- Advanced Port Scanner
-- Hydra
+- Windows 7 (Optional)
+- [Angry IP Scanner](https://github.com/angryip/ipscan)
+- [Advanced Port Scanner](https://www.advanced-port-scanner.com/)
+- [THC-Hydra Windows](https://github.com/maaaaz/thc-hydra-windows)
 - Basic Network, Hacking Tools and FTP knowledge
 
 ## Step one ##
@@ -45,12 +45,24 @@ Wordlists are collection of wellknown usernames and passwords to predict valid c
 
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/443f4f68-5078-4773-bdaa-fac9cbbc139e width=450 height=300/><br>Figure (9): Sample Wordlist </p>
 
-After wordlist creation process is done, we will start brute-force attack. There are genreally two types of brute-frocing is available, online and offline brute forcing attack. Tools and techniques may differ dependings on types of attack. In this scenario, online brute-forcing technique will perform. To do that there's a tool called thc-hydra.
+After wordlist creation process is done, we will start brute-force attack. There are genreally two types of brute-frocing is available, online and offline brute forcing attack. Tools and techniques may differ dependings on types of attack. In this scenario, online brute-forcing technique will perform. To perform online brute force attack there's a tool called Hydra which is command line tool and it has ability to attack online brute-forcing.
 
+To access Thc-Hydra, now go to the folder which is located Hydra and type following commmad.
+``` hydra -L user.txt -P password.txt 192.168.100.152 ftp ``` and press enter.
+- ``` hydra ``` to run hydra program
+- ``` -L user.txt ``` option needs to provide wordlist of user file
+- ``` -P password.txt ``` option neeeds to provide wordlist of password file
+- ``` 192.168.100.152 ``` which is target IP address to attack
+- ``` ftp ``` mean the types of service attack
+
+After the brute forcing process is done, hydra is show valid username and password to connect with target. In this case, Username is ``` jordan ``` and Password is ``` asdfghjkl;' ```.
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/d113e00c-edf8-44a0-a377-0c737002a47b width=450 height=300/><br>Figure (10): THC-Hydra Online Brute Force Tool </p>
 
-<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/b97c32cf-faaf-4e4b-8963-6db0a4b30c2d width=450 height=300/><br>Figure (11): THC-Hydra Online Brute Force Tool </p>
+Once we got valid username and password, the last thing we need to do is to connect wth FTP server and access it's resources.
+<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/b97c32cf-faaf-4e4b-8963-6db0a4b30c2d width=450 height=300/>
+<img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/c876ca81-a174-44e2-b42a-0973ac6b8df8 width=450 height=300/><br>Figure (11): FTP site connect </p>
 
-<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/c876ca81-a174-44e2-b42a-0973ac6b8df8 width=450 height=300/><br>Figure (12): THC-Hydra Online Brute Force Tool </p>
+## Conclusion ##
 
-
+In this tutorial, basic File Transfer Protocol (FTP) brute forcing lab is performed. Do more Practice and Expert it!. <br>
+**12/27/2023**
