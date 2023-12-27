@@ -11,11 +11,11 @@ are required. In this tutorial we will guess valid username and password by usin
 - [THC-Hydra Windows](https://github.com/maaaaz/thc-hydra-windows)
 - Basic Network, Hacking Tools and FTP knowledge
 
-## Step one ##
+## Step One ##
 Firstly, we need to know our network information to do that goes to the windows command prompt and type ``` ipconfig ``` to see network information as shown in following figure.
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/d4a4d3b8-63e2-478a-a9bb-e99f0537efaa width=450 height=300/><br>Figure (2): Network Information </p>
 
-## Step two ##
+## Step Two ##
 Once we know about our network information we need to find alive hosts in our network. To do that, there a scanning tool called Angry IP Scanner to scan our network.
 Now Open Angry IP Scanner and add network range, in this case ``` 192.168.100.1-254  ``` is our target netowrk, and click scan.
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/215446db-ed17-4c1a-97ff-5cbf0929f0d1 width=450 height=300/><br>Figure (3): Angry IP Scanner</p>
