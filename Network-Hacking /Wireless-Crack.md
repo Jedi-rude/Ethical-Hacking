@@ -1,6 +1,21 @@
 # Wireless Cracking #
+## Prerequisite for this Lab ##
+- [Monitor mode Wireless Adapter](https://www.tp-link.com/id/home-networking/high-power-adapter/tl-wn722n/)
+- Router or Access Point
+- [Aircrack-ng suite](https://github.com/aircrack-ng/aircrack-ng)
+- [Crunch](https://www.kali.org/tools/crunch/)
+- Wordslists
 
-<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/f1685439-2b74-4575-b91f-809c06a81e99 width=450 height=300/><br>Figure(1)</p>
+## Wireless Networks ##
+Wireless networks are now emerging very rapidly, in other hands wireless security sector has also challenging impact. Lets talk about some wireless security standards and wireless technologies.
+
+### Wireless security protocols ###
+- WEP
+- WPA
+- WPA2
+- WPA3
+
+<p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/f1685439-2b74-4575-b91f-809c06a81e99 width=450 height=300/><br>Figure(1)  </p>
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/d6d4447e-c13e-4deb-be03-6fb094af33a4 width=450 height=300/><br>Figure(2)</p>
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/1f023f3f-8c0f-4d9a-8b13-20a0f0400d88 width=450 height=300/><br>Figure(3)</p>
 <p align="center"><img src=https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/d34f69b7-70d1-430a-baed-d26b09ee5b8e width=450 height=300/><br>Figure(4)</p>
