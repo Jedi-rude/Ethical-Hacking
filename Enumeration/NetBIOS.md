@@ -60,5 +60,5 @@ After scanning is complete all network devices shares can be seen.
 ## Conclusion ##
 
 In this tutorial, NetBIOS Enumeration is performed by using different tools and techniques. Do more Practice and Expert it!. <br>
-**12/27/2023** <br>
+**1/27/2023** <br>
 Contributed By - Jord@n
