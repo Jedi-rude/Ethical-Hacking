@@ -84,7 +84,7 @@ Footprinting & Reconnaissance
 │	│	│	│	├─── [https://www.shodan.io/]
 │	│	│	├─── Censys
 │	│	│	│	├─── [https://censys.io/]
-│	│
+│	│	│
 │	├─── 2. Web Services
 │	│	│
 │	│	├─── Domains & Subdomains
@@ -107,7 +107,9 @@ Footprinting & Reconnaissance
 │	│	│	│	├─── [https://www.intelius.com/]
 │	│	│	├─── Spokeo
 │	│	│	│	├─── [https://www.spokeo.com/]
-│	│	├─── Email hunting
+│	│	├─── Email hunting 
+│	│	│	├─── Linkly
+│	│	│	│	├─── [https://linklyhq.com/]
 │	│	│	├─── theHarvester
 │	│	│	│	├─── [https://github.com/laramies/theHarvester]
 │	│	│	├─── Mailtrack
@@ -139,7 +141,7 @@ Footprinting & Reconnaissance
 │	│	│
 │	│	├─── profile information
 │	│	│	├─── theHarvester
-│	│	│	│	├─── [https://github.com/laramies/theHarvester]
+│	│	│	│	├─── [https://github.com/laramies/theHarvester]
 │	│	│	├─── Sherlock
 │	│	│	│	├─── [https://github.com/sherlock-project/sherlock]
 │	│	│	├─── UserReCon
@@ -152,6 +154,7 @@ Footprinting & Reconnaissance
 │	│	│	│	├─── [https://www.hootsuite.com]
 │	│	│	├─── Meltwater 
 │	│	│	│	├─── [https://www.meltwater.com]
+│	│	│
 │	├─── 4. Website footprinting
 │	│	│
 │	│	├─── information
@@ -161,6 +164,14 @@ Footprinting & Reconnaissance
 │	│	│	│	├─── [ping www.test.com -i 2 n 1]
 │	│	│	├─── photon 
 │	│	│	│	├─── [https://github.com/s0md3v/Photon]
+│	│	│	├─── Recon-ng
+│	│	│	│	├─── [https://github.com/lanmaster53/recon-ng]
+│	│	│	├─── Th3inspector
+│	│	│	│	├─── [https://github.com/Moham3dRiahi/Th3inspector]
+│	│	│	├─── Recon-dog
+│	│	│	│	├─── [https://github.com/s0md3v/ReconDog]
+│	│	│	├─── Reccoon
+│	│	│	│	├─── [https://github.com/evyatarmeged/Raccoon]
 │	│	│	├─── Central ops
 │	│	│	│	├─── [https://centralops.net/]
 │	│	│	├─── Website Informer
@@ -186,6 +197,7 @@ Footprinting & Reconnaissance
 │	│	│	│	├─── [https://github.com/smicallef/spiderfoot]
 │	│	│	├─── Cyotek
 │	│	│	│	├─── [https://www.cyotek.com/cyotek-webcopy/downloads]
+│	│	│
 │	├─── 5. Network footprinting
 │	│	│
 │	│	├─── DNS information
@@ -217,10 +229,9 @@ Footprinting & Reconnaissance
 │	│	│	│	├─── [https://www.solarwinds.com/]
 │	│	│	├─── ARIN
 │	│	│	│	├─── [https://www.arin.net/]
+│	│	│
 │	├─── 6. OSINT Techniques
 │	│	│
-│	│	├─── Recon-ng Tool
-│	│	│	├─── [https://github.com/lanmaster53/recon-ng]
 │	│	├─── Maltego Tool
 │	│	│	├─── [https://www.maltego.com/downloads/]
 │	│	├─── OSRFramework
@@ -230,15 +241,11 @@ Footprinting & Reconnaissance
 │	│	├─── BillCipher Tool
 │	│	│	├─── [https://github.com/bahatiphill/BillCipher]
 │	│	├─── OSINT framework
-│	│	│	├─── [https://osintframework.com/]
-│	│	├─── Th3inspector
-│	│	│	├─── [https://github.com/Moham3dRiahi/Th3inspector]
-│	│	├─── Recon-dog Tool
-│	│	│	├─── [https://github.com/s0md3v/ReconDog] 
-│	│	├─── Reccoon Tool
-│	│	│	├─── [https://github.com/evyatarmeged/Raccoon]
+│	│	│	├─── [https://osintframework.com/] 
 │	│	├─── exif/exiftool
-│	│	│	├─── [https://exiftool.org/] [https://exif.tools/] 
+│	│	│	├─── [https://exiftool.org/] [https://exif.tools/]
+│	│	├─── metagoofil
+│	│	│	├─── [https://github.com/laramies/metagoofil]
 │
 │
 │
