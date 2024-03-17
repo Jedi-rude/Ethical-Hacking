@@ -3,7 +3,10 @@ Sniffing is the process of monitoring and capturing all the packets passing thro
 Sniffing allows you to see all sorts of traffic, both protected and unprotected. There're many types of sniffing techniques & attacks.
 In this tutorial, ARP Poisoning technique will demostrate.
 
-## Protocols which are vulnerable to sniff the traffic
+<p align="center"><img src="https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/34b22355-4398-422b-9ae2-6559dcfe6e4b" width="550" height="250"/></p>
+
+
+## Some Protocols which are vulnerable to sniff the traffic
 - HTTP − It is used to send information in the clear text without any encryption and thus a real target.
 - SMTP (Simple Mail Transfer Protocol) − SMTP is basically utilized in the transfer of emails. This protocol is efficient, but it does not include any protection against sniffing.
 - IMAP (Internet Message Access Protocol) − IMAP is same as SMTP in its functions, but it is highly vulnerable to sniffing.
