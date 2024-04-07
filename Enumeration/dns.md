@@ -3,6 +3,8 @@
 DNS enumeration is the process of locating all the DNS servers and their corresponding records for an organization. DNS enumeration will yield usernames, computer names, and IP addresses of potential target systems.
 The list of DNS record provides an overview of types of resource records (database records) stored in the zone files of the Domain Name System (DNS).
 
+<p align="center"><img src="https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/dcc8e616-427e-43d9-b581-3fc4bfba04fc" width="500px" height="250px"><br>DNS</p>
+
 ## DNS Zone Transfer
 
 DNS Zone Transfer used to replicate DNS data across a number of DNS servers or to back up DNS files. A user or server will perform a specific zone transfer request from a name server.
