@@ -156,3 +156,9 @@ Metadata can include details such as the creation date, author, file size, forma
     - Website: [Exif.regex.info](http://regex.info/blog/other-writings/online-exif-image-data-viewer)
 - Apache Tika
     - Website: [Apache Tika](https://tika.apache.org/)
+
+## Conclusion 
+
+In this tutorial, Open-Source Intelligence gathering techniques are demostrated. Do more Practice and Expert it!. <br>
+**5/17/2024** <br>
+Contributed By - Jord@n
