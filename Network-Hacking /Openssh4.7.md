@@ -25,6 +25,6 @@
 
 ## Conclusion
 
-In this tutorial, NetBIOS Enumeration is performed by using different tools and techniques. Do more Practice and Expert it!. <br>
+In this tutorial, ssh login vulnerability is exploited by using metasploit. Do more Practice and Expert it!. <br>
 **1/30/2024** <br>
 Contributed By - Jord@n
