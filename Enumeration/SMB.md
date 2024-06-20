@@ -54,3 +54,8 @@ smb: \> showversion
 smb: \> showcap
 ```
 
+## Conclusion 
+
+In this tutorial, SMB Enumeration is performed by using different tools and techniques. Do more Practice and Expert it!. <br>
+**6/20/2024** <br>
+Contributed By - Jord@n
