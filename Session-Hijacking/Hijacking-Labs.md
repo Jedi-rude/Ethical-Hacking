@@ -59,3 +59,9 @@ Configure proxy in Internet Explorer
 <p align="center"><img src="https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/d842c484-5b87-48dc-80b0-cbc0e0e5b6f1" width="500px" height="300px"><br>figure (33)</p>
 <p align="center"><img src="https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/11954cd5-7812-4c65-a494-b5971bdf0d05" width="500px" height="300px"><br>figure (34)</p>
 <p align="center"><img src="https://github.com/AungZayMyo/Ethical-Hacking/assets/154745254/7354916d-9f60-4d4b-ac5f-347d3f99262e" width="500px" height="300px"><br>figure (35)</p>
+
+## Conclusion 
+
+In this tutorial, initail Session Hijacking techniques are performed by using various tools. Do more Practice and Expert it!. <br>
+**10/11/2024** <br>
+Contributed By - Jord@n
