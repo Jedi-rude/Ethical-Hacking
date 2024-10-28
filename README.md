@@ -19,7 +19,7 @@ This Repository is referenced to CEH modules and Tools that I have studied.
 [![BlueTeamLabs](https://img.shields.io/badge/BlueTeamLabs-1AB954?style=for-the-badge&logoColor=white)](https://blueteamlabs.online/home/user/fc0e896730f73a07765320)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aung-Zay-CS&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jedi-rude&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🔗 Contact
 - [LinkedIn](https://www.linkedin.com/in/aung-zay-myo/)
